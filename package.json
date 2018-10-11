@@ -1,0 +1,32 @@
+{
+  "name": "dl4vanillajs-node-example",
+  "version": "0.1.0",
+  "description": "Deep learning examples codes using dl4vanillajs under node.js environments.",
+  "main": "index.js",
+  "dependencies": {
+    "dl4vanillajs": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivorycirrus/dl4vanillajs-node-example.git"
+  },
+  "keywords": [
+    "dl4vanillajs",
+    "deeplearning",
+    "vanilla-js",
+    "neural-networks",
+    "javascript",
+    "mlp",
+    "ann"
+  ],
+  "author": "IvoryCirrus",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ivorycirrus/dl4vanillajs-node-example/issues"
+  },
+  "homepage": "https://github.com/ivorycirrus/dl4vanillajs-node-example#readme"
+}
